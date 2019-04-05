@@ -1,12 +1,12 @@
 {
   "signature": [
-    { "id": 3, "type": "Post 1" },
-    { "id": 4, "type": "Post 2" },
-    { "id": 5, "type": "Post 3" }
+    { "id": 1, "type": "YARA", "org": "DISA" },
+    { "id": 2, "type": "SNORT", "org": "DISA" },
+    { "id": 3, "type": "YARA", "org": "NSA" }
   ],
   "org": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 5, "body": "some comment", "postId": 1 },
+    { "id": 6, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
